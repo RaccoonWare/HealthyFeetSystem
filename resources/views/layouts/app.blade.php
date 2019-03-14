@@ -23,7 +23,6 @@
     <div id="app">
         <nav class="navbar navbar-expand-md navbar-light navbar-laravel">
             <div class="container">
-                <img src="img/logoHealhFeet2.png" alt="AdminLTE Logo" class="brand-image img-circle elevation-3">
                 <a class="navbar-brand" href="{{ url('/') }}">
                     {{ config('app.name', 'Healty Feet System') }}
                 </a>
