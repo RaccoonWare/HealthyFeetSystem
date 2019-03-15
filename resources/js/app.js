@@ -35,6 +35,8 @@ Vue.component('evolucion-component', require('./components/Evolucion.vue').defau
 Vue.component('interrogatorio-component', require('./components/Interrogatorio.vue').default);
 Vue.component('menu-component', require('./components/MenuPaciente.vue').default);
 Vue.component('perfil-component', require('./components/Perfil.vue').default);
+Vue.component('inicio-component', require('./components/Inicio.vue').default);
+Vue.component('calendario-component', require('./components/Calendario.vue').default);
 
 /**
  * Next, we will create a fresh Vue application instance and attach it to
